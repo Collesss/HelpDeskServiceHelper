@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpDeskServiceHelper.HelpD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskServiceHelper.Repository", "HelpDeskServiceHelper.Repository\HelpDeskServiceHelper.Repository.csproj", "{14784005-5DEB-45E4-BC3A-ECC381610F94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskServiceHelper.Repository.Db", "HelpDeskServiceHelper.Repository.Db\HelpDeskServiceHelper.Repository.Db.csproj", "{9C58CF2C-4FDD-4445-A1AD-77D47BC4127E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{14784005-5DEB-45E4-BC3A-ECC381610F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14784005-5DEB-45E4-BC3A-ECC381610F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14784005-5DEB-45E4-BC3A-ECC381610F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C58CF2C-4FDD-4445-A1AD-77D47BC4127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C58CF2C-4FDD-4445-A1AD-77D47BC4127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C58CF2C-4FDD-4445-A1AD-77D47BC4127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C58CF2C-4FDD-4445-A1AD-77D47BC4127E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
